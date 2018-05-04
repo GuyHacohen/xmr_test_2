@@ -1,0 +1,9 @@
+/home/stenly/xmr_test_2/CMakeFiles/install.dir
+/home/stenly/xmr_test_2/CMakeFiles/list_install_components.dir
+/home/stenly/xmr_test_2/CMakeFiles/rebuild_cache.dir
+/home/stenly/xmr_test_2/CMakeFiles/xmr-stak-c.dir
+/home/stenly/xmr_test_2/CMakeFiles/xmr-stak-backend.dir
+/home/stenly/xmr_test_2/CMakeFiles/edit_cache.dir
+/home/stenly/xmr_test_2/CMakeFiles/xmr-stak.dir
+/home/stenly/xmr_test_2/CMakeFiles/install/local.dir
+/home/stenly/xmr_test_2/CMakeFiles/install/strip.dir
